@@ -8,6 +8,7 @@ import java.io.PipedWriter;
 import java.util.LinkedList;
 
 public class SimuPeop implements Runnable{
+	
 	private final Integer PEOPLE;
 	private final Integer MININTERVAL;
 	private final Integer MAXINTERVAL;
