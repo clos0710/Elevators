@@ -43,5 +43,6 @@ public class SimuPeop implements Runnable{
             e.getMessage();
         }
     }
+    
     public LinkedList<People> getPL() { return PL; }
 }
