@@ -1,5 +1,5 @@
-<p align="center"
-    <img width="400px" src="https://github.com/clos0710/Elevators/blob/master/img/Elevator.png"/
+<p align="center">
+    <img width="400px" src="https://github.com/clos0710/Elevators/blob/master/img/Elevator.png"/>
 </p>
 
 ## 📖 目录
