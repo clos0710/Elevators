@@ -1,1 +1,3 @@
 /bin/
+[core]
+    Excludesfile = C:/Users/Administrator/java.gitignore
